@@ -1,0 +1,12 @@
+[credential]
+	helper = cache
+[user]
+	name = 1
+	email = noodledevelopmentco+1@gmail.com
+
+
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
